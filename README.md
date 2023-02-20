@@ -29,7 +29,7 @@ There are two types of user for the system. Doctor and patient. In the base page
 
 After login, they can use the modules for operations.
 	
-![Base Page](https://github.com/alibariszengin/Remedy-For/blob/master/HastaneSistemi/photos/genel-giris.png?raw=true)
+![Project GIF](https://github.com/alibariszengin/Remedy-For/blob/master/HastaneSistemi/photos/gif-of-project.gif?raw=true)
 	
 ## Technologies-Tools
 Project is created with:
